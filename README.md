@@ -19,4 +19,4 @@
 - Hoàn thành QT07: Góp ý cho phương pháp giảng dạy - https://classroom.google.com/u/0/c/MjU1MDMxNDMzMDk5/m/Mjg3NzczMTQ4NDEz/details
 
 ## Tài liệu tham khảo
--  Craft of reasearch, 4th edition. Link to note: To be updated.
+-  Craft of reasearch, 4th edition. Link to note: https://github.com/cescvietnam/CS2205.CH1501/blob/main/T%C3%A0i%20li%E1%BB%87u%20tham%20kh%E1%BA%A3o/Craft%20of%20research.md.
