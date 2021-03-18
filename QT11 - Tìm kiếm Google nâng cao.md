@@ -1,7 +1,7 @@
-# Mở đầu
+## Mở đầu
 Ngày nay, việc tìm kiếm thông tin trên Google trở thành hoạt động thiết yếu hàng ngày của hầu như tất cả mọi người có sở hữu thiết bị di động thông minh. Trong nghiên cứu, việc này càng quan trọng hơn khi chất lượng, sự chính xác, các yếu tố về quyền sở hữu thông tin, nguồn của thông tin sẽ ảnh hưởng đến cách thức sử dụng thông tin tìm thấy được. 
 Hơn nữa, việc tìm kiếm thông tin trên Google không chỉ dừng lại ở tìm kiếm dạng văn bản mà còn tìm kiếm hình ảnh và âm thanh.
-# Tim kiếm dạng văn bản
+## Tim kiếm dạng văn bản
 1. Tìm kiếm thông thường: vào https://www.google.com và điền từ khóa. Google sẽ trả về những trang web liên quan nhất đến từ khóa tìm kiếm.
 2. Tìm kiếm nâng cao: vào https://www.google.com/advanced_search để tùy chọn tìm kiếm nâng cao.
 - Tất cả cả từ: kết quả trả về phải bao gồm tất cả các từ khóa nhập vào ô này.
@@ -19,9 +19,9 @@ Allintitle: sẽ chỉ trả về các liên kết có nhiều từ trong tiêu 
 - Tìm kiếm các trang web liên quan: Tìm kiếm các trang web tương tự bằng cách sử dụng related: trước từ khoá để hiển thị các kết quả có liên quan. Tìm kiếm related:google.com hiển thị Yahoo và Bing.
 - Tìm trong anchor text: sử dụng "allinanchor:" hoặc "inanchor:"
 - So sánh 2 từ, 2 khái niệm: thêm "vs" vào giữa 2 từ. VD: DC vs Marvel
-3. Tìm kiếm hình ảnh:
+## Tìm kiếm hình ảnh:
 - Trong 1 số tình huống, ta có hình ảnh của vật cần tìm kiếm nhưng không biết tên vật đó. Google hiện tại cho phép tìm kiếm hình ảnh tương tự và đồng thời cung cấp tên gợi ý của vật đó. Vào https://www.google.com/imghp, upload hoặc điền URL của hình ảnh để bắt đầu.
-4. Lọc kết quả tìm kiếm:
+## Lọc kết quả tìm kiếm:
 Kết quả tìm kiếm sau khi được trả về có thể được lọc lại theo những cách sau:
 - Lọc kết quả tìm kiếm bằng ngôn ngữ
 - Lọc kết quả tìm kiếm theo loại thông tin: All, Images, Videos, News, Books, Maps, Shopping, Flights 
@@ -30,5 +30,5 @@ Kết quả tìm kiếm sau khi được trả về có thể được lọc l�
 - Lọc kết quả tìm kiếm theo vị trí xuất hiện trong trang (giống bên trên: trong url, trong tiêu đề, trong đoạn văn bản)
 - Lọc kết quả khiêu dâm
 - Lọc theo quyền sử dụng (được phép sử dụng hoặc chia sẻ; được phép sử dụng hoặc chia sẻ kể cả thương mại; được phép sử dụng, chia sẻ hoặc sửa đổi; được phép sử dụng, chia sẻ hoặc sửa đổi kể cả thương mại.
-5. Tính năng mới: tìm kiếm bài hát theo giai điệu:
+## Tính năng mới: tìm kiếm bài hát theo giai điệu:
 Thỉnh thoảng chúng ta chỉ nhớ giai điệu mà không nhớ được tên bài hát, chúng ta có thể sử dụng chức năng "hum to search" của google. Chi tiết có thể xem tại: https://blog.google/products/search/hum-to-search/
