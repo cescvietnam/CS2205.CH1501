@@ -17,3 +17,18 @@ Allintitle: sẽ chỉ trả về các liên kết có nhiều từ trong tiêu 
 - Chỉ tìm kiếm văn bản: intext: hoặc allintext: cho phép bạn chỉ tìm kiếm trong văn bản của một trang web, trái ngược với tiêu đề và URL mà thuật toán tìm kiếm thường xem xét.
 - Loại tệp tìm kiếm: Nếu  đang tìm kiếm một loại tệp cụ thể trên Internet, hãy sử dụng filetype: để chỉ tìm kiếm các tệp được tải lên phù hợp với truy vấn của bạn. VD: sử dụng filetype:pdf để tìm PDF hoặc filetype:doc để định vị tài liệu Microsoft Office.
 - Tìm kiếm các trang web liên quan: Tìm kiếm các trang web tương tự bằng cách sử dụng related: trước từ khoá để hiển thị các kết quả có liên quan. Tìm kiếm related:google.com hiển thị Yahoo và Bing.
+- Tìm trong anchor text: sử dụng "allinanchor:" hoặc "inanchor:"
+- So sánh 2 từ, 2 khái niệm: thêm "vs" vào giữa 2 từ. VD: DC vs Marvel
+3. Tìm kiếm hình ảnh:
+- Trong 1 số tình huống, ta có hình ảnh của vật cần tìm kiếm nhưng không biết tên vật đó. Google hiện tại cho phép tìm kiếm hình ảnh tương tự và đồng thời cung cấp tên gợi ý của vật đó. Vào https://www.google.com/imghp, upload hoặc điền URL của hình ảnh để bắt đầu.
+4. Lọc kết quả tìm kiếm:
+Kết quả tìm kiếm sau khi được trả về có thể được lọc lại theo những cách sau:
+- Lọc kết quả tìm kiếm bằng ngôn ngữ
+- Lọc kết quả tìm kiếm theo loại thông tin: All, Images, Videos, News, Books, Maps, Shopping, Flights 
+- Lọc kết quả tìm kiếm theo vùng
+- Lọc kết quả tìm kiếm theo thời gian cập nhật gần nhất
+- Lọc kết quả tìm kiếm theo vị trí xuất hiện trong trang (giống bên trên: trong url, trong tiêu đề, trong đoạn văn bản)
+- Lọc kết quả khiêu dâm
+- Lọc theo quyền sử dụng (được phép sử dụng hoặc chia sẻ; được phép sử dụng hoặc chia sẻ kể cả thương mại; được phép sử dụng, chia sẻ hoặc sửa đổi; được phép sử dụng, chia sẻ hoặc sửa đổi kể cả thương mại.
+5. Tính năng mới: tìm kiếm bài hát theo giai điệu:
+Thỉnh thoảng chúng ta chỉ nhớ giai điệu mà không nhớ được tên bài hát, chúng ta có thể sử dụng chức năng "hum to search" của google. Chi tiết có thể xem tại: https://blog.google/products/search/hum-to-search/
