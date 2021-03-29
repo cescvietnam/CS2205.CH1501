@@ -4,8 +4,9 @@
 - How to define the problem to be solved?
 ### Tasks
 1. Check Google scholar for "Reinforcement Learning"
+Most overview documents - to be read.
 - https://books.google.com/books?hl=vi&lr=&id=uWV0DwAAQBAJ&oi=fnd&pg=PR7&dq=reinforcement+learning&ots=mioLm6-Zi1&sig=JcWkFbJBbCE6Exlq1lWrpiRtGdg
-- 
+- https://arxiv.org/pdf/1701.07274.pdf
 3. Check connected paper for the overview of papers/books in the field (keyword: "Reinforcement Learning").
 - Most cited documents:
 - Most recent document:
