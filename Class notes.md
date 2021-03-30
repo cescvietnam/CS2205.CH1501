@@ -32,3 +32,23 @@ Ghi chú:
 - Gần như không thể chứng minh tính đúng đắn của khoa học. Dù hàng trăm hàng nghìn thí nghiệm chứng tỏ 1 giả thuyết là đúng, nó vẫn có thể sai và chưa được phát hiện ra. Chỉ cần 1 thí nghiệm chỉ ra giả thuyết là sai thì nó sai (falsification).
 - Quan trọng trong NCKH: luôn đặt câu hỏi, đặt câu hỏi quan trọng (giúp giải quyết vấn đề hoặc mở ra câu trả lời cho những câu hỏi quan trọng khác), tư duy phản biện.
 
+## Buổi 3 (29/03)
+Kỹ năng cần thiết khi làm nghiên cứu khoa học:
+1. Đọc: để tổng hợp kiến thức gì đã tồn tại.
+- Vấn đề: quá nhiều tài liệu liên quan, không đọc hết được.
+- Phải chọn lọc. Tiêu chí: mới (3~5 năm trở lại): SOTA - state of the art, nhiều citation (tầm quan trọng), từ nguồn uy tín
+- Dùng google scholar, connectedpaper, paperwithcode để lựa chọn tài liệu đọc
+- Phần cuối của nghiên cứu, bài thuyết trình sẽ đề cập đến tài liệu tham khảo: rất quan trọng để đánh giá chất lượng nghiên cứu
+- Đọc bao nhiêu tài liệu là đủ?
+2. Programming:
+- Reproduce experiment result
+- Ví dụ 1 đề tài luận văn bao gồm thu thập dữ liệu mới và ứng dụng thuật toán trên dữ liệu đó, phân tích so sánh các thuật toán, ưu điểm nhược điểm...
+3. Viết:
+- Viết cái gì, quan trọng hơn: viết như thế nào?
+- Viết là 1 kỹ năng khó, phải luyện tập thường xuyên, hằng ngày.
+- Luyện tập cách viết đoạn văn gồm 3 phần:
++ Câu mở đầu (topic sentence)
++ Những câu hỗ trợ, mở rộng (supporting sentences, developing sentences): 3 đến 6 câu
++ Closing sentence
+- Chú ý: Các câu trong 1 đoạn phải gắn liền với nhau, dùng từ cẩn thận (trong ngữ nghĩa khoa học), văn phong khoa học phải ngắn gọn rõ ràng.
+
