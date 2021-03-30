@@ -47,9 +47,8 @@ Kỹ năng cần thiết khi làm nghiên cứu khoa học:
 - Viết cái gì, quan trọng hơn: viết như thế nào?
 - Viết là 1 kỹ năng khó, phải luyện tập thường xuyên, hằng ngày.
 - Luyện tập cách viết đoạn văn gồm 3 phần:
-a. Câu mở đầu (topic sentence)
-b. Những câu hỗ trợ, mở rộng (supporting sentences, developing sentences): 3 đến 6 câu
-c. Closing sentence
-
++ Câu mở đầu (topic sentence)
++ Những câu hỗ trợ, mở rộng (supporting sentences, developing sentences): 3 đến 6 câu
++ Closing sentence
 - Chú ý: Các câu trong 1 đoạn phải gắn liền với nhau, dùng từ cẩn thận (trong ngữ nghĩa khoa học), văn phong khoa học phải ngắn gọn rõ ràng.
 
