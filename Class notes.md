@@ -52,3 +52,27 @@ Kỹ năng cần thiết khi làm nghiên cứu khoa học:
 + Closing sentence
 - Chú ý: Các câu trong 1 đoạn phải gắn liền với nhau, dùng từ cẩn thận (trong ngữ nghĩa khoa học), văn phong khoa học phải ngắn gọn rõ ràng.
 
+## Buổi 4 (05/04)
+### Nguồn gốc các thuật ngữ
+- Tham khảo trên Google class room: https://classroom.google.com/u/1/c/MjU1MDMxNDMzMDk5/m/Mjk4Nzk3ODQyNzk0/details
+- Một cách ngắn gọn: khoa học thiên về xây dựng hệ thống kiến thức, kỹ thuật hay công nghệ tập trung vào việc chế tạo, sản xuất ra sản phẩm cuối cùng. 
+### Sở hữu trí tuệ trong CNTT
+- Tham khảo Google class room: https://classroom.google.com/u/1/c/MjU1MDMxNDMzMDk5/m/Mjk4NTgxNjMxOTc5/details
+- Tài sản trong thực tế bao gồm tài sản hữu hình và vô hình. Ví dụ: đất đai, nhà xưởng, tiền mặt (hoặc tiền trong tài khoản), máy móc, nguyên vật liệu là tài sản 
+hữu hình; thương hiệu, tri thức, công nghệ, ... là tài sản vô hình. Theo thời gian, tỉ lệ tài sản vô hình trong tổng tài sản của những công ty lớn ngày càng tăng lên. Ví dụ năm 1975, tỉ lệ tài sản vô hình trong top 500 công ty lớn của Mỹ là 15% thì hiện nay là 85%. Ở Việt Nam tỉ lệ này vẫn thấp nhưng trong tương lai tỉ lệ tài sản vô hình sẽ tăng lên (do tôn trọng quyền sở hữu trí tuệ, thương hiệu công ty, khoa học kỹ thuật, ...)
+- Tác giả của một sản phẩm trí tuệ sẽ có 2 quyền: quyền nhân thân (người tạo ra sản phẩm trí tuệ đó) là vô thời hạn, quyền tài sản (50 đến 70 năm sau khi tác giả mất).
+- Sáng chế: là giải pháp kỹ thuật dưới dạng sản phẩm, qui trình có 3 yếu tố: tính mới, tính sáng tạo, tính hữu dụng (khả năng áp dụng công nghiệp)
+- Giải pháp hữu ích: giống sáng chế nhưng không cần tính sáng tạo.
+- Thời gian được bảo hộ: 20 năm đối với sáng chế, 10 năm đối với giải pháp hữu ích
+- Thời gian và chi phí đăng ký cấp bằng sáng chế thường lớn hơn so với giải pháp hữu ích. Chi phí đăng ký thường lớn hơn cho công ty lớn và nhỏ hơn cho đối tượng cá nhân
+### Tư duy phản biện
+- Tư duy phản biện: cần khách quan, đa chiều và thực tế.
+- Tư duy phản biện đứng thứ 2 trong danh sách những kỹ năng quan trọng để thành công (sau khả năng giải quyết các vấn đề phức tạp)
+- Tư duy phản biện: tập trung vào vấn đề chính, xem xét vấn đề dưới nhiều góc nhìn khác nhau, dùng các tiêu chuẩn khách quan.
+- Dấu hiệu của người yếu tư duy phản biện: Dài dòng, lan man, không tập trung vào vấn đề chính; chỉ có 1 góc nhìn, tuyệt đối đúng, không thay đổi; đánh giá vấn đề cảm tính, không có tiêu chuẩn khách quan rõ ràng.
+- Dấu hiệu của người có tư duy phản biện: đặt câu hỏi rõ ràng, quan trọng; tập hợp và đánh giá thông tin có liên quan; có lý lẽ và kiểm nghiệm chúng bằng những tiêu chí, tiêu chuẩn thích hợp; cởi mở với những góc nhìn khác nhau; truyền thông hiệu quả.
+- Rào cản: luôn đúng, vơ đũa cả nắm, lấy đám đông làm chân lý, không kiểm chứng giả thuyết, muốn mọi thứ theo ý mình.
+- Tư duy: rõ ràng, sâu.
+- Đặt câu hỏi: liệt kê ra giấy càng nhiều câu hỏi càng tốt.
+- Tập trung vào câu hỏi chính yếu, bỏ câu hỏi không quan trọng
+- Tìm kiếm thông tin để trả lời câu hỏi.
