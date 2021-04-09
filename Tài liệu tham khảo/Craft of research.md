@@ -37,5 +37,23 @@ Topic: specific interest with in subject (effect of climate change onmigrating b
 2. From questions to a problem
 - Practical problem (what should we do) vs conceptual problem (what should we think)
 - Cấu trúc của vấn đề: tình huống/điều kiện + hậu quả không mong muốn (đối với practical problem: hậu quả hữu hình, đối với conceptual problem: hậu quả là sự thiếu hiểu biết về 1 vấn đề cụ thể)
-- Tìm vấn đề nghiên cứu (research problem):
+- Tìm vấn đề nghiên cứu (research problem): đóng góp từ việc đặt vấn đề nhiều khi quan trọng hơn việc giải quyết nó. Có thể nói chuyện với đồng nghiệp, bạn bè, người thân. Tập trung vào những vấn đề nhỏ nhưng là cơ sở để giải quyết vấn đề lớn hơn.
+- Áp dụng tư duy phản biện khi đọc tài liệu để tìm ra vấn đề.
+- Kỹ năng giá trị nhất không phải là kỹ năng giải quyết vấn đề mà là khả năng nhận diện ra vấn đề, thuyết phục người khác quan tâm đến vấn đề đó và tin rằng vấn đề đó có thể được giải bởi chính bạn.
+- Viết ghi chú về vấn đề bạn đang đọc thường xuyên (tổng hợp, đánh giá, nhận xét, câu hỏi,...)
+- Khó khăn là bình thường khi tìm vấn đề nghiên cứu. Cố gắng nỗ lực khi gặp khó khăn: đọc lại những gì đã viết, hệ thống lại suy nghĩ... và làm tiếp
+3. From problem to sources:
+- 3 kinds of sources: primary, secondary and tertiary (chỉ tra cứu secondary source nếu không thể tra cứu primary source, không bao giờ tra cứu tertiary source)
+- Use google scholar, focus on recent papers, high citation, ... (see class notes and exercises)
+4. Engaging resources:
+- Ghi chú lại tác giả, tựa đề, năm xuất bản, phiên bản, số trang
+- Đọc chủ động: viết tóm tắt của đoạn, chương; viết phản hồi của bản thân: đồng ý, không đồng ý.
+- Cố gắng mở rộng những điểm đã đồng ý với những điều kiện mới, cố gắng xác nhận những giải thuyết chưa được kiểm chứng
+- Bất đồng sáng tạo: mâu thuẫn về loại hoặc mâu thuẫn 1 phần - toàn bộ.
+- Học cách thức lý luận: sắp xếp các chương, các ý, cách viết...
+- Học các nguồn tài liệu hoặc dữ liệu tham khảo.
+- Khi ghi chú, cần phân biệt rõ khi nào trích dẫn nguyên văn và khi nào ghi chú suy nghĩ của bản thân.
+- Trong nhiều trường hợp có thể đánh dấu (annotate) trực tiếp lên tài liệu mà không cần ghi chú.
+- Quic tip (p97): khi gặp khó khăn hãy cố gắng tổ chức lại thông tin, lặp lại mục tiêu nghiên cứu: I'm working on X to learn more about Y so that my reader can better understand Z.
+## Making 
 
