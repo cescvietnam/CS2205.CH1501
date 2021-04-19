@@ -76,3 +76,32 @@ hữu hình; thương hiệu, tri thức, công nghệ, ... là tài sản vô h
 - Đặt câu hỏi: liệt kê ra giấy càng nhiều câu hỏi càng tốt.
 - Tập trung vào câu hỏi chính yếu, bỏ câu hỏi không quan trọng
 - Tìm kiếm thông tin để trả lời câu hỏi.
+
+## Buổi 5 (12/04)
+- Luyện tập: Đề xuất nghiên cứu, giải pháp cho tình trạng sinh viên bỏ học
+- Hướng tiếp cận: Research area -> Research topic -> research problem
+- Cách tiếp cận 1 - hướng nghiên cứu: đọc tài liệu, bài báo nghiên cứu khoa học -> đề xuất hướng cải thiện, thay đổi
+- Cách tiếp cận 2 - hướng ứng dụng: tìm các giải pháp cho 1 vấn đề bằng lý thuyết hiện có
+- Chú ý: hypothesis phải cụ thể, viết rõ trong proposal. Nếu viết quá chung chung sẽ không được chấp nhận.
+1. Mục tiêu nghiên cứu:
+- Mục tiêu tổng quát: đích đến cuối cùng
+- Mục tiêu cụ thể: những mục tiêu nhỏ để đạt được mục tiêu tổng quát: rất cụ thể, đo đếm được.
+2. Nội dung: viết cụ thể kế hoạch chi tiết từng công việc, thách thức: cái gì chưa có, cần làm gì.
+
+## Buổi 6 (19/4)
+- Homework problem (undergraduate) -> research problem (after graduate) -> real work problem (industrial)
+- Homework problem (problem is well defined, solution is known); research problem (problem is not clear, even not exist before) - key: ask right question; real work problem: find product/market fit, build quickly MVP (minimum viable product), iterate 
+### 5 steps to solve research problem:
+1. Define problem
+- Review literature: read alot but not too much
+- Gain deep understanding by doing
+2. Formulate the problem
+- Find the right model, setup
+- Introduce assumption to simplify problem
+??? Đọc tài liệu thầy gửi
+
+### How to find problems:
+- Computer vision: go to paperswithcode and look for computer vision
+- Look for sub task: face regconition 
+- Understand and apply in some dataset
+- Cần phân biệt luận văn: nghiên cứu vấn đề. Luận văn không phải triển khai ứng dụng -> khả năng thất bại rất cao.
