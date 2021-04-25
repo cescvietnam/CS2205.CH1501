@@ -8,6 +8,7 @@ Most overview documents - to be read.
 - https://books.google.com/books?hl=vi&lr=&id=uWV0DwAAQBAJ&oi=fnd&pg=PR7&dq=reinforcement+learning&ots=mioLm6-Zi1&sig=JcWkFbJBbCE6Exlq1lWrpiRtGdg: Best book of RL
 - https://arxiv.org/pdf/1701.07274.pdf: comprehensive survey of RL
 - https://arxiv.org/pdf/1708.05866.pdf: shorted overview of RL
+- https://deepmind.com/blog/article/differentiable-neural-computers: Differentiable Neural Computers: Neural Network to decide how data will be stored instead of human predefined structure
 3. Check connected paper for the overview of papers/books in the field (keyword: "Reinforcement Learning").
 - Most cited documents:
 - Most recent document:
