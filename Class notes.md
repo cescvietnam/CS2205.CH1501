@@ -105,3 +105,6 @@ hữu hình; thương hiệu, tri thức, công nghệ, ... là tài sản vô h
 - Look for sub task: face regconition 
 - Understand and apply in some dataset
 - Cần phân biệt luận văn: nghiên cứu vấn đề. Luận văn không phải triển khai ứng dụng -> khả năng thất bại rất cao.
+
+## Buổi 7 (26/4) học online
+TBD
