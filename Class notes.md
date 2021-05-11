@@ -108,3 +108,10 @@ hữu hình; thương hiệu, tri thức, công nghệ, ... là tài sản vô h
 
 ## Buổi 7 (26/4) học online
 TBD
+
+### Exercise: how to read paper
+- Don't go through the paper from top to bottom in great detail!
+#### The 3 passes approach
+1. The first pass (5 to 10 minutes): read the title, abstract, introduction, section and sub-section heading, conclusion; glance over references. Target: what is Category, context, correctness, contribution, clarity => Decide to read or not.
+2. The 2nd pass (about 1h): focus on pictures, graphs, mark unread references: grasp the main content of the paper with supporting method and evidences (not detail). 
+3. The 3rd pass (up to 5h): virtually re-implement the paper. Focus on detail, challenge the assumptions; put yourself in the author shoes. You can resconstruct the entire paper from memory as well as identify its weak&strong points.
