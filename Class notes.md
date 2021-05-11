@@ -111,7 +111,15 @@ TBD
 
 ### Exercise: how to read paper
 - Don't go through the paper from top to bottom in great detail!
+
 #### The 3 passes approach
 1. The first pass (5 to 10 minutes): read the title, abstract, introduction, section and sub-section heading, conclusion; glance over references. Target: what is Category, context, correctness, contribution, clarity => Decide to read or not.
 2. The 2nd pass (about 1h): focus on pictures, graphs, mark unread references: grasp the main content of the paper with supporting method and evidences (not detail). 
 3. The 3rd pass (up to 5h): virtually re-implement the paper. Focus on detail, challenge the assumptions; put yourself in the author shoes. You can resconstruct the entire paper from memory as well as identify its weak&strong points.
+
+#### The mindset when reading a research paper
+1. Read critically: authors are not always correct, be suspicious. Are the assumptions make sense, is the logic clear and justifiable? Was the data collected in a proper maner? Was it interpreted correctly? Is other data more compelling?
+2. Read creatively: what are the good ideas? Can it be extended to other situations? Can it be generalized further? How can we go forward from here?
+3. Take notes or annotations when reading papers (important points or questionable points)
+4. Try summarize the paper in 1 or 2 sentences (after 1st pass) then go deeper to subpoints
+5. Compare the paper to other works in the area
