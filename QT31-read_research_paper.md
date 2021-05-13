@@ -17,7 +17,7 @@
 - Feature extraction: shallow shallow (color histogram, SIFT and optical flow) or deep features (fc7 layer of VGGnet-16)
 ![alt text](https://github.com/cescvietnam/CS2205.CH1501/blob/main/images/QT31_solution.jpg?raw=true)
 
-#### Why using bidirectional LSTM in the 1st layer to detect shots boundaries? Why can't we apply a normal LSTM and a thresh hold?
+#### Why using bidirectional LSTM in the 1st layer to detect shots boundaries? Why can't we apply a normal LSTM and a threshold?
 - Not only forward information information is important but frames come after a boundary are important also. So we need bidirectional LSTM
 - Setting threshold is hard and also destroy differentiability (not able to use gradient descent for training)
 - Sliding allow "local information only".
