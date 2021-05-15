@@ -1,4 +1,4 @@
-## HSA-RNN: Hierarchical Structure-Adaptive RNN for Video Summarization
+## HSA-RNN: Hierarchical Structure-Adaptive RNN for Video Summarization [(link)](https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Zhao_HSA-RNN_Hierarchical_Structure-Adaptive_CVPR_2018_paper.pdf)
 
 ### Problem/motivation
 - Video summarization: input long video, output short video with important portions kept.
