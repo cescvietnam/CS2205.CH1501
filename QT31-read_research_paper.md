@@ -25,7 +25,7 @@
 #### Detail information of sliding bidirectional LSTM in layer 1
 - Length k=240 (experimental value in the paper).
 - Stride = length of detected shot at each step
-- How shot feature st is caculated?
+- How shot feature st is caculated: using ht*(chosen boundary for shot t)
 
 #### Training technique
 - 1st layer is pre-trained to detect the boundaries correctly.
