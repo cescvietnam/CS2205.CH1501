@@ -38,7 +38,7 @@
 - Deep features give better result compared to shallow features.
 
 ### Limitation
-- Each shot can be shot but can't be too long (limited to the setting of k, with k=240 -> shot length limitted at 10s).
+- Each shot can be short but can't be too long (limited to the setting of k, with k=240 -> shot length limitted at 10s).
 - There is always a boundary in every k frames.
-- Feature extraction is neccassary
+- Feature extraction is neccassary, end to end training is not possible.
 - 
