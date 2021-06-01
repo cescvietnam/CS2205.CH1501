@@ -7,3 +7,7 @@
 - Differentiable Neural Machine (Graves et al, 2016) can learn how to store and create new data structure using Neural Network.
 - Purpose of study: apply DNC to reduce the memory storage and experience needed for training an Agent in RL.
 
+### 1. Nội dung
+- Giới thiệu đề tài: Reinforcement Learning is important research area because of its potential in solving complex problem where one or more agents have to make decision with long term reward in mind (e.g., sacrifice a queen for a pawn to win a chess match ten moves later.
+- Despite achieving great result recently, sample efficientcy is still a challenging topic in reinforcement learning. (provide example to recent research).
+- 
