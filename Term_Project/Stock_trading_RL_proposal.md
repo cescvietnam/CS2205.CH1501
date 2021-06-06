@@ -1,11 +1,3 @@
-## Vietnamese stock trading application using Reinforcement Learning
-
-
-### References
-https://www.aclweb.org/anthology/2021.naacl-main.316.pdf
-https://docs.google.com/spreadsheets/d/1pfjqKoUjUMdSf__QGyWbRRiVKl6iZKIFA36-_2yzvTk/edit#gid=698935858
-
-
 ## Hệ thống giao dịch tự động trên sàn chứng khoán Thành Phố Hồ Chí Minh sử dụng phương pháp học tăng cường
 1. Giới thiệu
   Những năm gần đây, phong trào đầu tư tài chính mà cụ thể là đầu tư chứng khoán phát triển mạnh mẽ ở Việt Nam. Số lượng tài khoản mở mới trung bình hằng tháng đã tăng từ mức 20,000 năm 2017 lên mức trên 110,000 năm 2021 [1]. Thanh khoản trung bình của hệ thống cũng tăng từ mức 4,000 tỉ đồng mỗi phiên giao dịch năm 2017 lên mức 30,000 tỉ đồng năm 2021. Những năm sắp tới, thị trường chứng khoán được dự báo bùng nổ hơn nữa vì tỉ lệ người dân đầu tư chứng khoán của Việt Nam vẫn còn rât nhỏ so với những nước phát triển. Tỉ lệ này ở Việt Nam là 3% (tháng 5 năm 2021) so với mức gần 50% ở một số nước phát triển. Như vậy, đầu tư chứng khoán là lĩnh vực còn rất nhiều tiềm năng phát triển ở Việt Nam.
