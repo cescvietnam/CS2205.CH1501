@@ -2,13 +2,17 @@
 **1. Giới thiệu**
 
   Những năm gần đây, phong trào đầu tư tài chính mà cụ thể là đầu tư chứng khoán phát triển mạnh mẽ ở Việt Nam. Số lượng tài khoản mở mới trung bình hằng tháng đã tăng từ mức 20,000 năm 2017 lên mức trên 110,000 năm 2021 [1]. Thanh khoản trung bình của hệ thống cũng tăng từ mức 4,000 tỉ đồng mỗi phiên giao dịch năm 2017 lên mức 30,000 tỉ đồng năm 2021. Những năm sắp tới, thị trường chứng khoán được dự báo bùng nổ hơn nữa vì tỉ lệ người dân đầu tư chứng khoán của Việt Nam vẫn còn rât nhỏ so với những nước phát triển. Tỉ lệ này ở Việt Nam là 3% (tháng 5 năm 2021) so với mức gần 50% ở một số nước phát triển. Như vậy, đầu tư chứng khoán là lĩnh vực còn rất nhiều tiềm năng phát triển ở Việt Nam.
+  
   Một trong những đặc điểm của việc đầu tư chứng khoán là giá của các cổ phiếu thay đổi rất nhanh và phức tạp. Hàng nghìn lệnh mua và bán được xử lý mỗi giây dẫn đến việc giá cổ phiếu có thể thay đổi lớn (+/- 7% trên sàn HOSE) trong khoản thời gian 1 giây. Việc hàng triệu nhà đầu tư cùng lúc ra quyết định mua bán dựa vào nhiều nguồn thông tin khác nhau (báo điện tử, diễn đàn mạng xã hội) dẫn đến việc dự đoán giá cổ phiếu trong ngắn hạn gần như là không thể đối với nhà đầu tư.
+  
   Trước tình hình đó, những nhà đầu tư tổ chức và các công ty chứng khoán đã xây dựng các hệ thống mua bán tự động dựa vào 1 số chỉ báo. Tuy nhiên các chỉ báo này thường rất thô sơ, ví dụ so sánh giá cổ phiếu hiện tại với một giá cố định được đặt trước hoặc chỉ số dựa vào giá cổ phiếu trong quá khứ (ví dụ chỉ số sức mạnh tương đối RSI, đường trung bình động MA, dải Bollinger BB, ...). Đặc điểm của những chỉ số này là chỉ quan tâm đến giá của 1 cổ phiếu cụ thể trong quá khứ mà không kết hợp thông tin từ việc thay đổi giá của các cổ phiếu khác và thông tin từ báo điện tử và mạng xã hội. Hệ thống mua bán tự động từ đó cũng chỉ ra quyết định mua bán độc lập mà không ra quyết định dựa trên tổng thể các mã cổ phiếu và số tiền hiện tại (quản lý danh mục - porfolio management). 
+  
   Về mặt học thuật, phương pháp học tăng cường đã chứng minh được hiệu quả trong việc ra quyết định trong thời gian ngắn để đạt được lợi ích tối đa trong dài hạn, rất phù hợp trong ứng dụng đầu tư chứng khoán tự động. Ramit Sawhney và Arnav Wadhwa đã ứng dụng phương pháp học tăng cường để thực nghiệm mua bán chứng khoán trên sàn NASDAQ Shanghai, Shenzhen, Hong Kong [2] với kết quả tích cực (tốt hơn so với các phương pháp khác trong quá khứ). Mục tiêu của đề tài này là áp dụng phương pháp học tăng cường để xây dựng và đánh giá hệ thông giao dịch tự động ở thị trường chứng khoán Việt Nam.
   
 **2. Mục tiêu của đề tài**
 
   Mục tiêu tổng quát: xây dựng và đánh giá hệ thống giao dịch tự động trên thị trường chứng khoán Việt Nam với mục tiêu lợi nhuận trong trung và dài hạn (trên 3 tháng) cao hơn lãi suất ngân hàng (6%/năm) và tăng trưởng của chỉ số VN-Index trong cùng thời gian.
+  
   Mục tiêu cụ thể:
   - Hiểu rõ và lặp lại được các phương pháp đề cập trong tài liệu tham khảo [2] cũng như các phương pháp khác được xây dựng cho thị trường chứng khoán Việt Nam [3-8].
   - Xây dựng hệ thống dữ liệu của tin tức, bài đăng trên mạng xã hội và giá cổ phiếu ở Việt Nam trong quá khứ và môi trường gia dịch ảo sử dụng dữ liệu thu thập được.
