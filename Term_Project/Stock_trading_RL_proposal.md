@@ -5,6 +5,7 @@
   Một trong những đặc điểm của việc đầu tư chứng khoán là giá của các cổ phiếu thay đổi rất nhanh và phức tạp. Hàng nghìn lệnh mua và bán được xử lý mỗi giây dẫn đến việc giá cổ phiếu có thể thay đổi lớn (+/- 7% trên sàn HOSE) trong khoản thời gian 1 giây. Việc hàng triệu nhà đầu tư cùng lúc ra quyết định mua bán dựa vào nhiều nguồn thông tin khác nhau (báo điện tử, diễn đàn mạng xã hội) dẫn đến việc dự đoán giá cổ phiếu trong ngắn hạn gần như là không thể đối với nhà đầu tư.
   Trước tình hình đó, những nhà đầu tư tổ chức và các công ty chứng khoán đã xây dựng các hệ thống mua bán tự động dựa vào 1 số chỉ báo. Tuy nhiên các chỉ báo này thường rất thô sơ, ví dụ so sánh giá cổ phiếu hiện tại với một giá cố định được đặt trước hoặc chỉ số dựa vào giá cổ phiếu trong quá khứ (ví dụ chỉ số sức mạnh tương đối RSI, đường trung bình động MA, dải Bollinger BB, ...). Đặc điểm của những chỉ số này là chỉ quan tâm đến giá của 1 cổ phiếu cụ thể trong quá khứ mà không kết hợp thông tin từ việc thay đổi giá của các cổ phiếu khác và thông tin từ báo điện tử và mạng xã hội. Hệ thống mua bán tự động từ đó cũng chỉ ra quyết định mua bán độc lập mà không ra quyết định dựa trên tổng thể các mã cổ phiếu và số tiền hiện tại (quản lý danh mục - porfolio management). 
   Về mặt học thuật, phương pháp học tăng cường đã chứng minh được hiệu quả trong việc ra quyết định trong thời gian ngắn để đạt được lợi ích tối đa trong dài hạn, rất phù hợp trong ứng dụng đầu tư chứng khoán tự động. Ramit Sawhney và Arnav Wadhwa đã ứng dụng phương pháp học tăng cường để thực nghiệm mua bán chứng khoán trên sàn NASDAQ Shanghai, Shenzhen, Hong Kong [2] với kết quả tích cực (tốt hơn so với các phương pháp khác trong quá khứ). Mục tiêu của đề tài này là áp dụng phương pháp học tăng cường để xây dựng và đánh giá hệ thông giao dịch tự động ở thị trường chứng khoán Việt Nam.
+  
 **2. Mục tiêu của đề tài**
 
   Mục tiêu tổng quát: xây dựng và đánh giá hệ thống giao dịch tự động trên thị trường chứng khoán Việt Nam với mục tiêu lợi nhuận trong trung và dài hạn (trên 3 tháng) cao hơn lãi suất ngân hàng (6%/năm) và tăng trưởng của chỉ số VN-Index trong cùng thời gian.
@@ -13,6 +14,7 @@
   - Xây dựng hệ thống dữ liệu của tin tức, bài đăng trên mạng xã hội và giá cổ phiếu ở Việt Nam trong quá khứ và môi trường gia dịch ảo sử dụng dữ liệu thu thập được.
   - Xây dựng hệ thống giao dịch ứng dụng phương pháp học tăng cường với dữ liệu quá khứ.
   - Thử nghiệm hệ thống với giao dịch tự động trực tiếp trên sàn HOSE
+  
 **3. Nội dung nghiên cứu**
 
   Đề tài nghiên cứu bao gồm những nội dung sau:
@@ -26,12 +28,14 @@
   - Train agent trong môi trường chứng khoán ảo.
   - Train agent và đánh giá việc giao dịch thực tế trên sàn HOSE.
   - Viết báo cáo tổng kết.
+
 **4. Kết quả, sản phẩm dự kiến**
 
   - Dữ liệu từ báo điện tử, mạng xã hội và giá chứng khoán được phân loại theo mã chứng khoán và sắp xếp theo thứ tự thời gian.
   - Môi trường giao dịch chứng khoán ảo dùng để huấn luyện agent theo phương pháp học tăng cường.
   - Ứng dụng giao dịch chứng khoán tự động trên sàn HOSE.
   - Báo cáo tổng kết.
+
 **5. Kế hoạch thực hiện**
 
   - Tuần 1-4: Đọc và hiểu rõ các tài liệu trong phần tham khảo.
@@ -44,6 +48,7 @@
   - Tuần 21-24: Train agent trong môi trường chứng khoán ảo.
   - Tuần 25-32: Train agent và đánh giá việc giao dịch thực tế trên sàn HOSE.
   - Tuần 28-36: Viết báo cáo tổng hợp  
+
 **6. Trích dẫn**
 
   [1] https://vneconomy.vn/gan-114-ngan-tai-khoan-chung-khoan-mo-moi-trong-thang-5.htm (2021)
