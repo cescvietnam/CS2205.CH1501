@@ -8,7 +8,9 @@
   Trước tình hình đó, những nhà đầu tư tổ chức và các công ty chứng khoán đã xây dựng các hệ thống mua bán tự động dựa vào 1 số chỉ báo. Tuy nhiên các chỉ báo này thường rất thô sơ, ví dụ so sánh giá cổ phiếu hiện tại với một giá cố định được đặt trước hoặc chỉ số dựa vào giá cổ phiếu trong quá khứ (ví dụ chỉ số sức mạnh tương đối RSI, đường trung bình động MA, dải Bollinger BB, ...). Đặc điểm của những chỉ số này là chỉ quan tâm đến giá của 1 cổ phiếu cụ thể trong quá khứ mà không kết hợp thông tin từ việc thay đổi giá của các cổ phiếu khác và thông tin từ báo điện tử và mạng xã hội. Hệ thống mua bán tự động từ đó cũng chỉ ra quyết định mua bán độc lập mà không ra quyết định dựa trên tổng thể các mã cổ phiếu và số tiền hiện tại (quản lý danh mục - porfolio management). 
   
   Về mặt học thuật, phương pháp học tăng cường đã chứng minh được hiệu quả trong việc ra quyết định trong thời gian ngắn để đạt được lợi ích tối đa trong dài hạn, rất phù hợp trong ứng dụng đầu tư chứng khoán tự động. Ramit Sawhney và Arnav Wadhwa đã ứng dụng phương pháp học tăng cường để thực nghiệm mua bán chứng khoán trên sàn NASDAQ Shanghai, Shenzhen, Hong Kong [2] với kết quả tích cực (tốt hơn so với các phương pháp khác trong quá khứ). Mục tiêu của đề tài này là áp dụng phương pháp học tăng cường để xây dựng và đánh giá hệ thông giao dịch tự động ở thị trường chứng khoán Việt Nam.
-  
+
+![alt text](https://github.com/cescvietnam/CS2205.CH1501/blob/term_RL/Term_Project/pictures/diagram1.jpg)
+
 **2. Mục tiêu của đề tài**
 
   Mục tiêu tổng quát: xây dựng và đánh giá hệ thống giao dịch tự động trên thị trường chứng khoán Việt Nam với mục tiêu lợi nhuận trong trung và dài hạn (trên 3 tháng) cao hơn lãi suất ngân hàng (6%/năm) và tăng trưởng của chỉ số VN-Index trong cùng thời gian.
