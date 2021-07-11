@@ -1,11 +1,15 @@
 ## Hệ thống giao dịch tự động trên sàn chứng khoán Thành Phố Hồ Chí Minh sử dụng phương pháp học tăng cường
 **1. Giới thiệu**
 
-  Những năm gần đây, phong trào đầu tư tài chính mà cụ thể là đầu tư chứng khoán phát triển mạnh mẽ ở Việt Nam. Số lượng tài khoản mở mới trung bình hằng tháng đã tăng từ mức 20,000 năm 2017 lên mức trên 110,000 năm 2021 [1]. Thanh khoản trung bình của hệ thống cũng tăng từ mức 4,000 tỉ đồng mỗi phiên giao dịch năm 2017 lên mức 30,000 tỉ đồng năm 2021. Những năm sắp tới, thị trường chứng khoán được dự báo bùng nổ hơn nữa vì tỉ lệ người dân đầu tư chứng khoán của Việt Nam vẫn còn rât nhỏ so với những nước phát triển. Tỉ lệ này ở Việt Nam là 3% (tháng 5 năm 2021) so với mức gần 50% ở một số nước phát triển. Như vậy, đầu tư chứng khoán là lĩnh vực còn rất nhiều tiềm năng phát triển ở Việt Nam.
+  Những năm gần đây, phong trào đầu tư tài chính mà cụ thể là đầu tư chứng khoán phát triển mạnh mẽ ở Việt Nam. Số lượng tài khoản mở mới trung bình hằng tháng đã tăng từ mức 20,000 năm 2017 lên mức trên 110,000 năm 2021. Thanh khoản trung bình của hệ thống cũng tăng từ mức 4,000 tỉ đồng mỗi phiên giao dịch năm 2017 lên mức 30,000 tỉ đồng năm 2021. Tổng vốn hóa những công ty trên sàn chứng khoán đến tháng 5 năm 2021 đã đạt đến gần 8 triệu tỉ đồng, gấp 1.3 lần GDP [1]. Những năm sắp tới, thị trường chứng khoán được dự báo bùng nổ hơn nữa vì tỉ lệ người dân đầu tư chứng khoán của Việt Nam vẫn còn rât nhỏ so với những nước phát triển. Tỉ lệ này ở Việt Nam là 3% (tháng 5 năm 2021) so với mức gần 50% ở một số nước phát triển. Như vậy, đầu tư chứng khoán là lĩnh vực còn rất nhiều tiềm năng và sẽ phát triển mạnh mẽ ở Việt Nam trong thời gian tới.
   
-  Một trong những đặc điểm của việc đầu tư chứng khoán là giá của các cổ phiếu thay đổi rất nhanh và phức tạp. Hàng nghìn lệnh mua và bán được xử lý mỗi giây dẫn đến việc giá cổ phiếu có thể thay đổi lớn (+/- 7% trên sàn HOSE) trong khoản thời gian 1 giây. Việc hàng triệu nhà đầu tư cùng lúc ra quyết định mua bán dựa vào nhiều nguồn thông tin khác nhau (báo điện tử, diễn đàn mạng xã hội) dẫn đến việc dự đoán giá cổ phiếu trong ngắn hạn gần như là không thể đối với nhà đầu tư.
+  Một trong những đặc điểm của việc đầu tư chứng khoán là giá của các cổ phiếu thay đổi rất nhanh và phức tạp. Hàng nghìn lệnh mua và bán được xử lý mỗi giây dẫn đến việc giá cổ phiếu có thể thay đổi lớn (+/- 7% trên sàn HOSE) trong khoản thời gian rất ngắn. Việc hàng triệu nhà đầu tư cùng lúc ra quyết định mua bán dựa vào nhiều nguồn thông tin khác nhau (báo điện tử, diễn đàn mạng xã hội) dẫn đến việc dự đoán giá cổ phiếu trong ngắn hạn là rất khó khăn. Các nhà đầu tư thường sử dụng một số phân tích kỹ thuật (dựa vào giá của cổ phiếu đó trong quá khứ) hoặc phân tích cơ bản (sử dụng thông tin từ báo cáo tài chính của doanh nghiệp và một số thông tin vĩ mô về ngành). Phân tích kỹ thuật có nhược điểm là bỏ qua các thông tin về doanh nghiệp, các yếu tố vĩ mô còn phân tích cơ bản thiếu thông tin về giá trong quá khứ và chậm hơn thị trường.
   
   Trước tình hình đó, những nhà đầu tư tổ chức và các công ty chứng khoán đã xây dựng các hệ thống mua bán tự động dựa vào 1 số chỉ báo. Tuy nhiên các chỉ báo này thường rất thô sơ, ví dụ so sánh giá cổ phiếu hiện tại với một giá cố định được đặt trước hoặc chỉ số dựa vào giá cổ phiếu trong quá khứ (ví dụ chỉ số sức mạnh tương đối RSI, đường trung bình động MA, dải Bollinger BB, ...). Đặc điểm của những chỉ số này là chỉ quan tâm đến giá của 1 cổ phiếu cụ thể trong quá khứ mà không kết hợp thông tin từ việc thay đổi giá của các cổ phiếu khác và thông tin từ báo điện tử và mạng xã hội. Hệ thống mua bán tự động từ đó cũng chỉ ra quyết định mua bán độc lập mà không ra quyết định dựa trên tổng thể các mã cổ phiếu và số tiền hiện tại (quản lý danh mục - porfolio management). 
+  
+  Về mặt học thuật, các mô hình học máy đã sử được sử dụng từ hồi quy tuyến tính, hồi quy không tuyến tính và gần đây là các mô hình học sâu đã phần nào đạt được các kết quả đáng khích lệ [2].
+  
+  **Thêm thông tin về các nghiên cứu khoa học**
   
   Về mặt học thuật, phương pháp học tăng cường đã chứng minh được hiệu quả trong việc ra quyết định trong thời gian ngắn để đạt được lợi ích tối đa trong dài hạn, rất phù hợp trong ứng dụng đầu tư chứng khoán tự động. Ramit Sawhney và Arnav Wadhwa đã ứng dụng phương pháp học tăng cường để thực nghiệm mua bán chứng khoán trên sàn NASDAQ Shanghai, Shenzhen, Hong Kong [2] với kết quả tích cực (tốt hơn so với các phương pháp khác trong quá khứ). Mục tiêu của đề tài này là áp dụng phương pháp học tăng cường để xây dựng và đánh giá hệ thông giao dịch tự động ở thị trường chứng khoán Việt Nam.
 
@@ -57,11 +61,20 @@
 
 **6. Trích dẫn**
 
-  [1] https://vneconomy.vn/gan-114-ngan-tai-khoan-chung-khoan-mo-moi-trong-thang-5.htm (2021)
-  [2] https://www.aclweb.org/anthology/2021.naacl-main.316.pdf (2021)
+  [1] http://www.ssc.gov.vn/ubck/faces/vi/vimenu/vipages_vithongtinthitruong/thongkettck?_adf.ctrl-state=pkoqs8f4c_4&_afrLoop=9680305580000 (2021)
+  
+  [2] https://arxiv.org/pdf/2003.01859.pdf
+  
+  [3] https://www.aclweb.org/anthology/2021.naacl-main.316.pdf (2021)
+  
   [3] Dương Minh Đức, Hệ dự đoán chỉ số VN - INDEX dựa trên mô hình học sâu, Nguyễn Việt Phương (2021)
+  
   [4] Dương Minh Đức, Ứng dụng SVM và chuỗi thời gian dự đoán xu hướng thị trường chứng khoán Việt Nam, Trần Quốc Bảo (2017)
+  
   [5] Võ Đình Bảy, Áp dụng phương pháp lai giữa thuật toán tối ưu bầy đàn và hồi qui vécto hỗ trợ trong dự đoán giá chứng khoán A hybrid PSO-SVR approach for Vietnam stock price prediction on market, Lê Đỗ Minh Nga (2017)
+  
   [6] Đỗ Phúc, Ứng dụng luật kết hợp để khám pháp mối quan hệ giữa các tỉ số tài chính và giá chứng khoán, Huỳnh Văn Trận (2016)
+  
   [7] Dương Minh Đức, Dự báo xu hướng chứng khoán dựa vào tin tức tài chính tại sàn giao dịch TPHCM (HOSE), Huỳnh Đức Huy (2015)
+  
   [8] Hoàng Văn Kiếm, Ứng dụng text mining dự báo thị trường chứng khoán Việt Nam, Phạm Xuân Dũng (2015)
