@@ -131,5 +131,5 @@ Viết đề cương nghiên cứu cần cụ thể, chi tiết, tránh mơ hồ
 - Mục tiêu tổng quát -> khoảng 3 mục tiêu cụ thể.
 - Thực hành
 
-## Buổi 9
+## Buổi 9 (31/5)
 Thực hành viết, thầy nhận xét đánh giá
