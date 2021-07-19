@@ -123,3 +123,13 @@ TBD
 3. Take notes or annotations when reading papers (important points or questionable points)
 4. Try summarize the paper in 1 or 2 sentences (after 1st pass) then go deeper to subpoints
 5. Compare the paper to other works in the area
+
+## Buổi 8 (24/5)
+Viết đề cương nghiên cứu cần cụ thể, chi tiết, tránh mơ hồ, chung chung (vague).
+- Cần có sự kết nối vững chắc giữa các phần của đề cương nghiên cứu: bối cảnh -> mục tiêu tổng quát -> mục tiêu cụ thể -> nội dung và phương pháp thực hiện -> kết quả mong đợi.
+- Bối cảnh -> mục tiêu: từ xa tới gần, từ tổng quan đến chi tiết.
+- Mục tiêu tổng quát -> khoảng 3 mục tiêu cụ thể.
+- Thực hành
+
+## Buổi 9
+Thực hành viết, thầy nhận xét đánh giá
