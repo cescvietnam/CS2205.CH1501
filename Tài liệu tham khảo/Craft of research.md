@@ -107,3 +107,12 @@ your reasoning?
 9. Common disgareements from readers: There are causes in addition to the one you cla; There are causes in addition to the one you claim; I don’t define X as you do. To me, X means ...
 
 ### Warrants
+- Warrant is the principle to connect a reason and a claim.
+- When to state warrant: when you think readers will not be able to understand your reasoning without it.
+- Warrant generally include a general circumstances and a general causes. Our reason and claim is an instance of that.
+- Is your warrant reasonable?
+- All arguments based on warrant even not explicitly.
+- Challenge not only the claim and evidence but also the warrant (the way to reasoning): warrant based on experience: show inconsistency in experience or show counterexample; warrant based on authority: the authority doesn't have all evidence or the source is not authority at all; warrant based on system knownledge: challenge the system itself; 
+
+
+## Writing your argument
