@@ -55,5 +55,23 @@ Topic: specific interest with in subject (effect of climate change onmigrating b
 - Khi ghi chú, cần phân biệt rõ khi nào trích dẫn nguyên văn và khi nào ghi chú suy nghĩ của bản thân.
 - Trong nhiều trường hợp có thể đánh dấu (annotate) trực tiếp lên tài liệu mà không cần ghi chú.
 - Quic tip (p97): khi gặp khó khăn hãy cố gắng tổ chức lại thông tin, lặp lại mục tiêu nghiên cứu: I'm working on X to learn more about Y so that my reader can better understand Z.
-## Making 
+## Making an argument
+### Argument
+- Different with normal daily debate in which one try to dispute the other to have a winner and loser.
+- Argument in research: cooperative converstation between researchers who want to find the right/best answer for an important topic.
+- Get to know your reader to prepare your argument accordingly
+- Argument: you make a **claim**, back it with reasons supported by evidence, acknowledge and respond to other views, and sometimes explain your principles of reasoning.
+1. **Claim**: What do you want me to believe? What’s your point?
+2. **Reasons**: Why do you say that? Why should I agree?
+3. **Evidence**: How do you know? Can you back it up?
+4. **Acknowledgment and Response**: But what about . . . ?
+5. **Warrant**: How does that follow? What’s your logic? Can you explain
+your reasoning?
+• A claim is an assertion (which can be a single sentence or more) that demands support: Climate change is threatening coastal cities; Toni Morrison’s most important novel is Beloved. Your main claim is the assertion your whole research argument supports. Some call this assertion your thesis.
+• A reason is an assertion that supports a claim: [Because] climate change is causing ocean levels to rise; [Because] in Beloved, Morrison’s major themes find their fullest development.
+• Evidence is data deployed to support a reason. Unlike a claim or a reason, evidence is not always framed as an assertion: a data table documenting rising ocean levels over the past decade or quotations from Beloved illustrating Morrison’s major themes would be forms of evidence.
+- **CLAIM** because of **REASON** based on **EVIDENCE**
+- We also need to acknowledge and respond to other point of view and also provide warrant of reasoning.
+- Common mistake: falling back to what you know -> you should open for supprises, both when you're new to a field (stick to your own way) or you're experienced in a field (use the same way of reasoning).
 
+### Making claims
