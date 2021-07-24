@@ -75,3 +75,35 @@ your reasoning?
 - Common mistake: falling back to what you know -> you should open for supprises, both when you're new to a field (stick to your own way) or you're experienced in a field (use the same way of reasoning).
 
 ### Making claims
+1. What kind of claim should I make?
+2. Is it specific enough?
+3. Will my readers think it is significant enough to need an argument supporting it?
+
+- Making conceptual claims vs practical claim (understand vs act). Conceptual claims focus on fact or existence; definition or classification; causes and consequences; evaluaon or appraisal; action or policy. Practical claims focus on feasibility of solution, time, cost and ease of implemetation.
+- Make your claim specific (not vague).
+- "Although I acknowledge X, I claim Y because of reason Z"
+- Make your claim significant. Significance of a claim is the amount of believes that it can changes. Significant claims are worth contesting. To check if a claim is worth contesting, try to make an opposite of it. If the opposite claim is false or trivial then the original claim is not significant or not worth contesting.
+- Devastating question to researcher: not "Why should I belive it?" but "Why should I care?"
+- Acknowledge of limiting conditons of your claim (only the plausible ones)
+- Use hedge to limit certainty: not too much, not too little.
+
+### Assembling reason and evidence
+- Dinstinguish reason and evidence (uncontested fact)
+- Distinghuish evidence and report of it. Normally we can't access directly the evidence but only report of it (or 2nd source report). Keep in mind that evidence is collected, processed and presented in certain form with a certain intension.
+- Evaluating evidence: readers want evidence to be accurate, precise, sufficient, representative, and authoritative (expertise/reputation of source).
+- You can sometimes use even questionable evidence, if you acknowledge its dubious quality. In fact, if you point to evidence that seems to support your claim but then reject it as unreliable, you show yourself to be cautious, self-critical, and thus trustworthy.
+- An argument is only as strong as its evidence.
+
+### Acknowledges and response
+- Readers may question **intrinsic soundness** (clarity of your claim,relevance of your reasons, or the quality of your evidence), or **extrinsic soundness** (frame the problem differently, evidence that' not mentioned,...)
+1. Prepare a core of your argument (claim, reason, evidence and warrant of reason).
+2. Question (all the parts of) your argument yourself or ask your friends, colleagues, professors for that.
+3. Imagining alternative views (use your sources)
+4. Choose what to acknowledge --> most relevant and support/clarify your argument further.
+5. Acknowledge flaws in your argument
+6. Acknowledge questions you can't answer
+7. Framing your responses as suboordinate arguments (claim, reason, evidence and maybe warrant of reason).
+8. Use volcabulary in page 174th of the book.
+9. Common disgareements from readers: There are causes in addition to the one you cla; There are causes in addition to the one you claim; I don’t define X as you do. To me, X means ...
+
+### Warrants
